@@ -650,6 +650,9 @@
             },
             ".mbr-section-title": {
               "color": "#f7f7f7"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#f7f7f7"
             }
           },
           "_name": "header12",
