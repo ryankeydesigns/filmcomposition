@@ -800,6 +800,14 @@ a {
 .new-font-4 > .mbr-iconfont {
   font-size: 2.4rem;
 }
+.new-font-5 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3.4rem;
+  line-height: 1.5;
+}
+.new-font-5 > .mbr-iconfont {
+  font-size: 3.4rem;
+}
 .cid-vgLvPtyXhu {
   z-index: 1000;
   width: 100%;
@@ -3466,9 +3474,9 @@ a {
 }
 .cid-vgLoZfeiNy {
   display: flex;
-  padding-top: 20rem;
-  padding-bottom: 4rem;
-  background-image: url("../../../assets/images/0.jpg");
+  padding-top: 16rem;
+  padding-bottom: 1rem;
+  background-image: url("../../../assets/images/zp88-967x412.jpg");
 }
 .cid-vgLoZfeiNy .mbr-overlay {
   background-color: #000000;
@@ -3530,7 +3538,7 @@ a {
 .cid-vgLqD9fFdl {
   padding-top: 3rem;
   padding-bottom: 4rem;
-  background-image: url("../../../assets/images/screenshot-5.png");
+  background: #ffffff;
 }
 .cid-vgLqD9fFdl .mbr-fallback-image.disabled {
   display: none;
